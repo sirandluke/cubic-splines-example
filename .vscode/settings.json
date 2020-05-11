@@ -6,11 +6,17 @@
     "coeff",
     "coor",
     "cors",
+    "d",
+    "interp",
+    "interpld",
     "leng",
     "numpy",
     "polymul",
+    "scipy",
     "spline",
-    "x"
+    "splrep",
+    "x",
+    "xnew"
   ],
   "cSpell.words": [
     "pyplot"
